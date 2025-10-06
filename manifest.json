@@ -1,0 +1,14 @@
+{
+  "name": "Aqua Fenny residents group",
+  "short_name": "Aqua Fenny",
+  "start_url": "https://groups.google.com/g/aquafenny",
+  "display": "fullscreen",
+  "icons": [
+    {
+      "src": "https://drive.google.com/file/d/1Pi0JTkzefgB9hS0ydKo_RFlrmsw66Bf9/view?usp=drive_link",
+      "type": "application/json" 
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#FFFFFF"
+}
